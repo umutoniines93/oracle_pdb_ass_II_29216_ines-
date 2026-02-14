@@ -1,6 +1,6 @@
 # Oracle PDB Assignment II (29216)
 
-Repository Link: https://github.com/<your-username>/oracle_pdb_ass_II_29216_ines
+Repository Link: https://github.com/umutoniines93/oracle_pdb_ass_II_29216_ines-.git
 PDB Name Created: in_pdb_29216
 Issues Encountered: No
 
