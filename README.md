@@ -1,5 +1,12 @@
 # Oracle PDB Assignment II (29216)
 
+**Student Name:** Umutoni Ines
+**Student ID:** 29216
+**Course:** Database Development with PL/SQL (INSY 8311)
+**Instructor:** Eric Maniraguha
+**Submission Date:** February 16, 2026
+
+
 Repository Link: https://github.com/umutoniines93/oracle_pdb_ass_II_29216_ines-.git
 PDB Name Created: in_pdb_29216
 Issues Encountered: No
