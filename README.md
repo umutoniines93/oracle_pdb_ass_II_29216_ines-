@@ -16,7 +16,7 @@ This report documents the creation and management of Oracle Pluggable Databases 
 **Naming (exact):**
 - PDB name: `in_pdb_29216`
 - PDB user: `ines_plsqlauca_29216`
-- Password: `PASSWORD_HERE`
+- Password: `Bray@123`
 
 **Evidence:**
 - PDB creation command screenshot: [screenshots/pdb_create.png](screenshots/pdb_create.png)
